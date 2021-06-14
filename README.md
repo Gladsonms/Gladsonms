@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 Personal Website [https://gladsonms.github.io/page/](https://gladsonms.github.io/page/)
+ - 📄 Know about my experiences [https://drive.google.com/file/d/1Pe65Mr8PjUtTdK6L4GWemPDCc289ICSJ/view?usp=sharing](https://drive.google.com/file/d/1Pe65Mr8PjUtTdK6L4GWemPDCc289ICSJ/view?usp=sharing)
+
 
 - 📫 How to reach me **gladsonsaji4@gmail.com**
 
